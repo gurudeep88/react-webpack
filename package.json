@@ -21,10 +21,6 @@
   "eslintConfig": {
     "extends": "react-app"
   },
-  "peerDependencies": {
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6"
-  },
   "browserslist": {
     "production": [
       ">0.2%",
@@ -43,6 +39,8 @@
     "@babel/preset-env": "^7.23.9"
   },
   "dependencies": {
-    "@babel/preset-react": "^7.23.3"
+    "@babel/preset-react": "^7.23.3",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
   }
 }
