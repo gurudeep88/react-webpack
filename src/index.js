@@ -1,2 +1,9 @@
-const getLog = () => console.log('hi bro');
-export default getLog;
+import React from 'react'
+
+const Blog = () => {
+  return (
+    <div>Blog</div>
+  )
+}
+
+export default Blog
